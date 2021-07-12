@@ -38,5 +38,5 @@ IOTA [Discord](https://discord.iota.org/) and post in the #php channel.
 
 # License
 
-The Apache 2.0 license can be found [here](LICENSE).
+The Apache 2.0 license can be found [here](https://github.com/iota-community/iota.php/blob/main/LICENSE).
 {"mode":"full","isActive":false}

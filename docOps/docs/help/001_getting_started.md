@@ -12,7 +12,3 @@
 ```bash
  git clone https://github.com/iota-community/iota.php
 ```
-
-___
-
-<- Back to [Overview](000_index.md)
