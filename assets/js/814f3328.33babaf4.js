@@ -1,0 +1,1 @@
+(self.webpackChunkdoc_ops=self.webpackChunkdoc_ops||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/iota.php/blog/welcome"},{"title":"Hello","permalink":"/iota.php/blog/hello-world"},{"title":"Hola","permalink":"/iota.php/blog/hola"}]}')}}]);
